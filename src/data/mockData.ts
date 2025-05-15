@@ -4,7 +4,7 @@ export const currentUser: User = {
   id: '1',
   name: 'James Hong',
   email: 'jrh343@example.com',
-  avatar: 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+  avatar: 'https://img.freepik.com/free-vector/user-blue-gradient_78370-4692.jpg',
 };
 
 export const users: User[] = [
@@ -13,25 +13,25 @@ export const users: User[] = [
     id: '2',
     name: 'Justin Lapointe',
     email: 'justin.l@example.com',
-    avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    avatar: 'https://img.freepik.com/free-vector/user-blue-gradient_78370-4692.jpg',
   },
   {
     id: '3',
     name: 'Rufana',
     email: 'rufana@example.com',
-    avatar: 'https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    avatar: 'https://img.freepik.com/free-vector/user-blue-gradient_78370-4692.jpg',
   },
   {
     id: '4',
     name: 'Cameron Drake',
     email: 'cameron.d@example.com',
-    avatar: 'https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    avatar: 'https://img.freepik.com/free-vector/user-blue-gradient_78370-4692.jpg',
   },
   {
     id: '5',
     name: 'Sean Hill',
     email: 'sean.hill@example.com',
-    avatar: 'https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+    avatar: 'https://img.freepik.com/free-vector/user-blue-gradient_78370-4692.jpg',
   },
 ];
 
